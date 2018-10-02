@@ -1,0 +1,14 @@
+GraphQL 1 est un langage de requêtes développé en interne par Facebook en 2012 jusqu'à sa publication en 20152. Il propose une alternative aux API REST1 dont le stockage est éventuellement distribué. Il propose au client de formuler la structure de données dans la requête, tandis que cette même structure est retournée par le serveur. Fortement typé, ce langage évite les problèmes de retour de données insuffisants (under-fetching) ou surnuméraires (over-fetching).
+
+Utilisations
+GraphQL a été implémenté pour de nombreux langages, par exemple Graphene3 pour Python, Apollo4 et Relay5 pour Javascript.
+
+Il est utilisé par certaines bases de données orientées graphe comme ArangoDB en tant que langage de requête6.
+
+References
+↑ a et b « GraphQL: A query language for APIs. » [archive]
+↑ « GraphQL: A data query language » [archive]
+↑ « GraphQL in Python made simple » [archive]
+↑ (en) « Page d'accueil d'Apollo GraphQL » [archive]
+↑ (en) « Introduction to Relay » [archive], sur https://facebook.github.io/ [archive]
+↑ « Using GraphQL with NoSQL database ArangoDB » [archive]
