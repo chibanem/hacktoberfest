@@ -7,3 +7,5 @@ adding new line here
 
 
 just adding new line again
+
+before 
